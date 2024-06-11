@@ -33,6 +33,6 @@
 
 ---
 
-- **📄 projects:** [View my projects here!](https://github.com/HappyJieun/Projects)
+- **📄 projects:** [machine_learning projects here!](https://github.com/HappyJieun/Projects_ML)
 
 ---
